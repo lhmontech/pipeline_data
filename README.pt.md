@@ -141,17 +141,17 @@ ORDER BY avg_rating DESC;
 ### ⚙️ Rodando no Windows
 
 1. Open **CMD** or **PowerShell**
-2. Navigate to the project folder:
+2. Navegue até a pasta do projeto:
 
    ```bash
-   cd path\to\pipeline_data
+   cd caminho\do\pipeline_data
    ```
-3. Install dependencies:
+3. Instale as dependências:
 
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the pipeline:
+4. Rode a pipeline:
 
    ```bash
    py src/main.py
@@ -184,3 +184,4 @@ python3 src/main.py
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-monteiro-55101a365/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lhmonteiro.ti@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lhmontech)
+
