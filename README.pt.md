@@ -4,7 +4,7 @@
       <img src="pipeline-logo.png" alt="logo" width="400">
 </p>
 
-# Data Pipeline — Python & SQL (ETL)
+# Pipeline de dados — Python & SQL (ETL)
 
 ## ℹ️ Sobre o projeto
 
@@ -184,4 +184,5 @@ python3 src/main.py
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-monteiro-55101a365/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lhmonteiro.ti@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/lhmontech)
+
 
