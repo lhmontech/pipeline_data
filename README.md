@@ -1,7 +1,7 @@
 🌍 Read this in [English](README.md) | Leia em [Português](README.pt.md)
 
 <p align="center">
-      <img src="pipeline-logo.png" alt="logo" width="200">
+      <img src="pipeline-logo.png" alt="logo" width="400">
 </p>
 
 # Data Pipeline — Python & SQL (ETL)
